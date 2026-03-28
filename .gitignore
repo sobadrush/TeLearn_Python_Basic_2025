@@ -1,0 +1,34 @@
+# Python 虛擬環境
+venv/
+venv01/
+env/
+ENV/
+.venv/
+
+# Python 編譯檔案
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 作業系統
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python 分發 / 打包
+*.egg
+*.egg-info/
+dist/
+build/
